@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "aimbot",
+  "name": "esp",
   "main": "worker.mjs",
   "compatibility_date": "2026-11-16",
   "workers_dev": true,
